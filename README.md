@@ -137,6 +137,16 @@ Using frame subtraction as a preprocessing step enables:
 - A **diff video** showing what changed from the start.
 - A **mask video** showing the foreground (moving vehicles).
 
+- 
+
+## Original file 
+
+https://github.com/user-attachments/assets/3061800e-7c00-4664-ac50-7a0c6768a801
+
+## Process file
+
+https://github.com/user-attachments/assets/4164da13-1928-4bc7-84a8-225a79e7b6ca
+
 ---
 
 ## 📌 Final Thoughts
